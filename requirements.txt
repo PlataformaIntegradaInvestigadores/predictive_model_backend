@@ -1,0 +1,19 @@
+pandas
+scikit-learn
+lightgbm
+fastapi
+
+# Servidor ASGI para FastAPI
+uvicorn[standard]
+
+# Machine Learning
+scikit-learn==1.3.2
+lightgbm==4.1.0
+joblib
+
+# Manipulación de datos
+pandas
+
+# Gestión de configuración y variables de entorno
+pydantic-settings
+python-dotenv
